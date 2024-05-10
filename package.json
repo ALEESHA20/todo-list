@@ -1,8 +1,8 @@
 {
-  "name": "todo-list1.0",
+  "name": "your_todo-list",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "todos.js",
   "type": "module",
   "bin": "todos.js",
   "scripts": {
